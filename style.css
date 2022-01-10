@@ -1,0 +1,142 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  background-color: hsl(225, 100%, 94%);
+}
+
+.card {
+  position: relative;
+  background-color: #fff;
+  border-radius: 20px;
+  width: 450px;
+  height: 700px;
+  min-height: 700px;
+  overflow: hidden;
+}
+
+.card-header {
+  height: 220px;
+}
+
+.card-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.card-name {
+  position: relative;
+  margin: 25px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.card-annotation {
+  top: 0;
+  position: relative;
+  color: #6c708b;
+  font-size: 18px;
+  margin: 0 60px;
+
+  text-align: center;
+}
+
+.card-plan {
+  display: flex;
+
+  position: relative;
+  flex-direction: row;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  background-color: #f8f9fe;
+  height: 98px;
+  width: 354px;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-plan-img {
+  left: 0;
+  margin: 20px;
+}
+
+.card-plan-block {
+  left: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  font-size: 16px;
+}
+
+.card-plan-block-name {
+  margin: 0;
+  font-weight: 900;
+}
+
+.card-plan-block span {
+  color: #6c708b;
+}
+.card-href {
+  right: 0;
+  width: 50px;
+  margin: 20px;
+}
+
+.card-plan-img,
+.card-plan-block,
+.card-href {
+  position: absolute;
+}
+
+.card-btn {
+  background-color: #382ae1;
+  color: #fff;
+  height: 50px;
+  width: 350px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.card-cancel {
+  margin: 20px;
+  color: #6c708b;
+  font-weight: 900;
+  font-size: 18px;
+}
+
+.attribution {
+  position: absolute;
+  bottom: 10px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+p {
+  font-size: 16px;
+}
