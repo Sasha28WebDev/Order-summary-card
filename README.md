@@ -24,13 +24,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
-![Result of work](./screenshot/screenshot_1.jpg)
+![Result of work](./screenshot/screenshot_1.png)
 
 ### Links
 
-- Solution URL: [](https://github.com/Sasha28WebDev/frontend-mentor-challenge-1)
-- Live Site URL: [](https://sasha28webdev.github.io/frontend-mentor-challenge-1/)
+- Solution URL: [github](https://github.com/Sasha28WebDev/frontend-mentor-challenge-1)
+- Live Site URL: [github-pages](https://sasha28webdev.github.io/frontend-mentor-challenge-1/)
 
 ## My process
 
