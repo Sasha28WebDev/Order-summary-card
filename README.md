@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Result of work](./screenshot/screenshot_1)
+![Result of work](./screenshot/screenshot_1.jpg)
 
 ### Links
 
@@ -50,7 +50,7 @@ In the next projects, I will focus on the mobile version of the site and also tr
 
 ### Useful resources
 
-- [box-shadow](https://active-vision.ru/icon/box-shadow/) - This helped me for use box-shadow parameter. This site is very helpful and will use it going forward.
+- [active-vision.ru](https://active-vision.ru/icon/box-shadow/) - This helped me for use box-shadow parameter. This site is very helpful and will use it going forward.
 
 ## Author
 
