@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Sasha28WebDev/frontend-mentor-challenge-1)
-- Live Site URL: [github-pages](https://sasha28webdev.github.io/frontend-mentor-challenge-1/)
+- Live Site URL: [github-pages](https://sasha28webdev.github.io/Order-summary-card/)
 
 ## My process
 
